@@ -1,4 +1,4 @@
-# Algorithmic Trading Project
+# Algorithmic Trading & ML
 
 <img width="1000" height="1000" alt="Algorithmic Trading Preview" src="https://github.com/user-attachments/assets/9b84587d-3d18-437c-93a6-07fee35c1649" />
 
